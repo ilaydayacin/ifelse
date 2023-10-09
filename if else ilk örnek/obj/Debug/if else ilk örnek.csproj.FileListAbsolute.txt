@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\bin\Debug\if else ilk örnek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\bin\Debug\if else ilk örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\bin\Debug\if else ilk örnek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if_else_ilk_örnek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if_else_ilk_örnek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else ilk örnek\if else ilk örnek\obj\Debug\if else ilk örnek.pdb
